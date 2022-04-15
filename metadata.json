@@ -1,0 +1,6 @@
+{
+  "name": "Testing Typescript support in LightningJS",
+  "identifier": "com.mauro1855.LightningTypescriptTest",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

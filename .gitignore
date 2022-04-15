@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Jetbrains
+.idea/
+
+# no compiled JS
+src/**/*.js
+
+releases
+.tmp
+build
